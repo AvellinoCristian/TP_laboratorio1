@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523132878 source:c:\users\iekuu\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523131833 c:\users\iekuu\desktop\tp_1_cascara\funciones.h
+
+1523132228 source:c:\users\iekuu\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
